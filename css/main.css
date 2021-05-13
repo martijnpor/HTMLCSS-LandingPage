@@ -186,7 +186,7 @@ section {
   background-image: url("/img/hero.jpg");
   height: 400px;
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: center center;
   text-transform: uppercase;
 }
 
